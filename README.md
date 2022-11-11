@@ -16,8 +16,8 @@ An HDL Simulator is required that can simulate Verilog (or System Verilog design
 
 Run the following commands to install Icarus Verilog and GTK wave to view the waveform.
 
-    sudo apt­get install iverilog
-    sudo apt­get install gtkwave
+    sudo apt-get install iverilog
+    sudo apt-get install gtkwave
 
 ### Verilator
 Run the following command to install [Verilator](https://verilator.org/guide/latest/).
